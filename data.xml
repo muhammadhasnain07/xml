@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aptech>
+    <student>
+        <name>Hasnain</name>
+        <email>hasnain@gmail.com</email>
+        <age>18.5</age>
+        <city>Karachi</city>
+    </student>
+
+    <student>
+        <name>Shamoil</name>
+        <email>shamoil@gmail.com</email>
+        <age>21</age>
+        <city>Lahore</city>
+    </student>
+
+    <student>
+        <name>Saad</name>
+        <email>saad@gmail.com</email>
+        <age>18</age>
+        <city>Hydrabad</city>
+    </student>
+
+    <student>
+        <name>Gulzamal</name>
+        <email>gulzamal@gmail.com</email>
+        <age>40</age>
+        <city>Mirpurkhas</city>
+    </student>
+
+    
+</aptech>
