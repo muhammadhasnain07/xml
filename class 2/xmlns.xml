@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <aviary xmlns:zahid="https//xmlnamespacezahid.com" xmlns:hasnain="https//xmlnamespacehasnain.com">
+    <finches>
+        <hasnain:name>blue lady goldians</hasnain:name>
+        <hasnain:age>1 year</hasnain:age>
+        <hasnain:price>30,000</hasnain:price>
+    </finches>
+    <lovebirds>
+        <zahid:name>blue pel fellow</zahid:name>
+        <zahid:age>1 year</zahid:age>
+        <zahid:price>10,000</zahid:price>
+    </lovebirds>
+</aviary> -->
+
+
+<course xmlns:first="https//xmlnamespacefirst.com" xmlns:second="https//xmlnamespacesecond.com">
+    <books>
+        <first:eng></first:eng>
+        <first:urdu></first:urdu>
+        <first:math></first:math>
+    </books>
+    <books>
+        <second:physics></second:physics>
+        <second:chemistry></second:chemistry>
+        <second:bio></second:bio>
+    </books>
+</course>

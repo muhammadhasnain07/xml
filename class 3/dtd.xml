@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE aptech SYSTEM "data.dtd" [
+<!ELEMENT aptech (student*)>
+    <!ELEMENT student (name+,email?,age*,city, (phone|contact))>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT email (#PCDATA)>
+    <!ELEMENT age (#PCDATA)>
+    <!ELEMENT city (#PCDATA)>
+    <!ELEMENT phone (#PCDATA)>
+    <!ELEMENT contact (#PCDATA)>
+ <!ENTITY a "hasnain">
+    <!ENTITY b "hello">
+    <!ATTLIST  student id CDATA #IMPLIED>
+
+]>
+<aptech>
+    <student id="1">
+    <name>&a;</name>
+    <email>ali@gmail.com</email>
+    <age>18</age>
+    <city>karachi</city>
+    <phone>65165165</phone>
+    </student>
+    <student id="2">
+    <name>&b;</name>
+    <email>ali@gmail.com</email>
+    <age>20</age>
+    <city>karachi</city>
+    <contact>5866546</contact>
+    </student>
+</aptech>
