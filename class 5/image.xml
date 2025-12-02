@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+<?xml-stylesheet href="image.xsl" type="text/xsl"?>
+
 
 <aptech>
     <student>
@@ -7,6 +8,7 @@
         <email>hasnain@gmail.com</email>
         <city>karachi</city>
         <age>18</age>
+        <image>1.jpg.jpg</image>
 
     </student>
 
@@ -15,24 +17,14 @@
         <email>shamoil@gmail.com</email>
         <city>hydrabad</city>
         <age>20</age>
+        <image>2.jpg.jpg</image>
+        
     </student>
 
     <student>
         <name>zaid</name>
         <email>zaid@gmail.com</email>
         <city>islamabad</city>
-    </student>
-
-    <student>
-        <name>ali</name>
-        <email>ali@gmail.com</email>
-        <city>lahore</city>
-        <image></image>
-    </student>
-    <student>
-        <name>faiz</name>
-        <email>faiz@gmail.com</email>
-        <city>hyd</city>
-        <age>25</age>
+        <image>3.jpg</image>
     </student>
 </aptech>

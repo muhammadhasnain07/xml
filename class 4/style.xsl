@@ -9,6 +9,7 @@
                         <th>Email</th>
                         <th>City</th>
                         <th>Age</th>
+                        <th>image</th>
                     </tr>
 
                     
@@ -18,6 +19,7 @@
                             <td><xsl:value-of select="email"/></td>
                             <td><xsl:value-of select="city"/></td>
                             <td><xsl:value-of select="age"/></td>
+                           
                        </tr>
                     </xsl:for-each>
                     

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="card.xsl"?>
+<catalog>
+  <item>
+    <title>Diamond Finches</title>
+    <desc>breeder pair</desc>
+    <price>20000</price>
+    <image>https://birda.twic.pics/species/c71c9ee8-5a84-435a-936a-55bece6750b7/reference_images/Diamond_Firetail.jpg?twic=v1/inside=1536x1536</image>
+  </item>
+  <item>
+    <title>Blue Goldian</title>
+    <desc>breeder pair</desc>
+    <price>7500</price>
+    <image>https://phoolpanchi.com/birds/wp-content/uploads/2024/08/acadc6a2-801c-4f12-bd24-c0e88089e383.jpg</image>
+  </item>
+  <item>
+    <title>Star Finches</title>
+    <desc>breeder Pair</desc>
+    <price>12000</price>
+    <image>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbaYRK2QFfTKUGguKeQNnFpBy2o4O3m7chxQs</image>
+  </item>
+</catalog>
