@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="index.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+<aptech>
+    <student>
+        <name>hasnain</name>
+        <email>hasnain@gmail.com</email>
+        <age>18</age>
+        <image>1.jpg.jpg</image>
+    </student>
+
+    <student>
+        <name>shamoil</name>
+        <email>shamoil@gmail.com</email>
+        <age>18</age>
+        <image>2.jpg.jpg</image>
+    </student>
+
+    <student>
+        <name>zaid</name>
+        <email>zaid@gmail.com</email>
+        <age>15</age>
+        <image>1.jpg.jpg</image>
+    </student>
+
+
+    <student>
+        <name>ali</name>
+        <email>ali@gmail.com</email>
+        <age>19</age>
+        <image>2.jpg.jpg</image>
+    </student>
+</aptech>
